@@ -1,0 +1,9 @@
+E:\study\SMTRPZ\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.deps.json
+E:\study\SMTRPZ\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.dll
+E:\study\SMTRPZ\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.pdb
+E:\study\SMTRPZ\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.csprojAssemblyReference.cache
+E:\study\SMTRPZ\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.csproj.CoreCompileInputs.cache
+E:\study\SMTRPZ\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.AssemblyInfoInputs.cache
+E:\study\SMTRPZ\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.AssemblyInfo.cs
+E:\study\SMTRPZ\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.dll
+E:\study\SMTRPZ\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.pdb

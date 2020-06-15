@@ -1,0 +1,9 @@
+C:\Users\Maksym Archybasov\source\repos\SMTRPZ\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.deps.json
+C:\Users\Maksym Archybasov\source\repos\SMTRPZ\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.dll
+C:\Users\Maksym Archybasov\source\repos\SMTRPZ\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.pdb
+C:\Users\Maksym Archybasov\source\repos\SMTRPZ\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.csprojAssemblyReference.cache
+C:\Users\Maksym Archybasov\source\repos\SMTRPZ\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Maksym Archybasov\source\repos\SMTRPZ\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.AssemblyInfoInputs.cache
+C:\Users\Maksym Archybasov\source\repos\SMTRPZ\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.AssemblyInfo.cs
+C:\Users\Maksym Archybasov\source\repos\SMTRPZ\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.dll
+C:\Users\Maksym Archybasov\source\repos\SMTRPZ\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.pdb
